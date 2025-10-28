@@ -8,4 +8,4 @@ B3: Mở folder trong VS Xanh
 B4: Open LiveServer, tải trong Extension của VS Xanh nếu chưa có
 --- Lưu ý ---
 Đây chỉ là giai đoạn 1, hy vọng mọi người trong nhóm có thể "đóng góp"
---- Test lan 1
+--- Test
