@@ -1,5 +1,5 @@
-# SmartS - Đồ án công nghệ phần mềm - HUIT 2025
 Website quản lý cửa hàng bán Smartphones
+<<<<<<< HEAD
 --- Đây chỉ là phần Front-End, thiết kế Back-End sẽ được phát triển trên .NET MVC với Framework Entity
 --- Hướng dẫn cài đặt ---
 B1: Máy phải có Visual Xanh Dương
@@ -8,4 +8,7 @@ B3: Mở folder trong VS Xanh
 B4: Open LiveServer, tải trong Extension của VS Xanh nếu chưa có
 --- Lưu ý ---
 Đây chỉ là giai đoạn 1, hy vọng mọi người trong nhóm có thể "đóng góp"
+<<<<<<< HEAD
 --- Test lan 1
+=======
+>>>>>>> 93486dfe445e956b5b14177924a716b951a111f9
